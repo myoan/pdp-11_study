@@ -11,7 +11,7 @@ $ ./myhd a.out
 ```
 
 #### 2. create disassembler
-`now studing...`
+`cleared!!`
 ```bash
 $ g++ -o mydisasm mydisasm.cpp
 $ ./mydisasm a.out
